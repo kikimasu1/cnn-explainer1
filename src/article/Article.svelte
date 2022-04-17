@@ -107,8 +107,7 @@
     <section class = "explain">
       <div class="figure">
         <img
-<!--           src="PUBLIC_URL/assets/figures/convlayer_overview_demo.gif" -->
-      src = "https://kikimasu1.github.io/testo/assets/figures/convlayer_overview_demo.gif"
+          src="PUBLIC_URL/assets/figures/convlayer_overview_demo.gif"
           alt="clicking on topmost first conv. layer activation map"
           width="60%"
           height="60%"
