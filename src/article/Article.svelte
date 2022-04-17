@@ -208,7 +208,7 @@
       than other logits, whereas softmax does. Simply put, softmax is a “softer”
       argmax&mdash;see what we did there?
     </p>
-    <!-- <div class="figure">
+    <div class="figure">
       <img
         src="PUBLIC_URL/assets/figures/softmax_animation.gif"
         alt="softmax interactive formula view"
@@ -219,7 +219,7 @@
         the prediction scores after the flatten layer are normalized to yield classification
         scores.
       </div>
-    </div> -->
+    </div>
 
    
 
